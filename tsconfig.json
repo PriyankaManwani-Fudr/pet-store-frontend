@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "containers/login/login.tsx", "redux/actions.js", "redux/Rootreducers/AuthReducer.js"  ]
 }
